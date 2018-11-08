@@ -14,7 +14,7 @@ npm build
 yarn build 
 ```
 
-# Build (to dist)
+# Develop
 ```sh
 yarn run # Browser auto-launch 
 # or
